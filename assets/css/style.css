@@ -47,6 +47,7 @@ nav {
   letter-spacing: -2px;
   padding: 1.4rem;
   flex: 0 0 200px;
+  padding-left: 10px;
 }
 
 header nav div div a {
